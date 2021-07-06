@@ -1,0 +1,120 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700px;
+    margin: 0;
+}
+
+table{
+    border: 0;
+    width: 100%;
+}
+
+td{
+    width: 12.5%;
+    text-align: center;
+    background-color: purple;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}
+
+#burger-pic{
+    width: 100%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,pink);
+    color: white;
+    font-weight: 700;
+    padding: 20px 30px;
+    border-radius: 30px;
+    
+}
+
+section{
+    display: flex;
+    width: 100%;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.half-width img{
+    width:90%;
+    margin-top:15%;
+}
+
+.para{
+    font-size: 20px;
+    font-weight: 300;
+    color: gray;
+}
+
+.banner{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 5%;
+}
+
+.center-area{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.three-area{
+    width: 36%;
+    height:  550px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+    padding: 20px 20px 0px 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px lightpink;
+    
+}
+.three-area img{
+    width: 100%;
+    border-radius: 30px;
+}
+
+ 
+.three-flexi{
+    display: flex;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 7%;
+    margin-bottom: 5%;
+    padding: 20px 20px 0px 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px lightpink;
+}
+
+.follower{
+    width: 30%%;
+    margin-left: 10%;
+    margin-right: 10%
+}
+
+
+#background-color{
+    background-color: rgba(3, 2, 31, 0.938);
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
